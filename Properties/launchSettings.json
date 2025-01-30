@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Quiz caluclator.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
